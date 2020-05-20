@@ -1,38 +1,31 @@
-## Senior Develop
+## Truong Thi Ngoc Bich
+### Senior Developer
 ![TruongThiNgocBich](https://avatars3.githubusercontent.com/u/7008161?s=160&u=5da8fb9434ade13186133b9f2778898d7e61981f&v=4)
 
-You can use the [editor on GitHub](https://github.com/truongthingocbich/bichttn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## PERSONAL DETAIL
+· Full name: TRUONG THI NGOC BICH
+· Gender: Female
+· Date of birth: 24/11/1985
+· Phone: 0902696156
+· Email: truongthingocbich@gmail.com
 
-### Markdown
+## EDUCATION
+•	B.S Degree in Math and Computer Science of University of Natural Science Ho Chi Minh city, 2003 -2007 
+•	Associate in Bachelor of Economics in Business Administration of University of Economics Ho Chi Minh City, 2008 -2010 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## LANGUAGE SKILL
+· Vietnamese | Mother Tongue 
+· English | Intermediate 
+· Japanese | ~ N2 
 
-```markdown
-Syntax highlighted code block
+### TECHNICAL SKILL
+PROGRAMMING LANGUAGE 	PHP (11 years), Java (1 year), HTML (2 years), JavaScript(2 years) 
+PROGRAMMING TOOL 	Eclipse, Netbeans, Git 
+DATABASE 	MySQL, PostgreSQL,… 
+FRAMEWORK 	CodeIgniter (4 years), Lavarel (3 years), Symfony PHP (2 years), Yii(1 year), CakePHP (1 year) 
+CMS: Wordpress (1 year), Joomla (0.5 year) 
+OS 	Window, Linux 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/truongthingocbich/bichttn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
