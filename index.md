@@ -2,15 +2,16 @@
 
 
 ## PERSONAL DETAIL
-· Full name: TRUONG THI NGOC BICH
-· Gender: Female
-· Date of birth: 24/11/1985
-· Phone: 0902696156
-· Email: truongthingocbich@gmail.com
+- Full name: TRUONG THI NGOC BICH
+- Gender: Female
+- Date of birth: 24/11/1985
+- Phone: 0902696156
+- Email: truongthingocbich@gmail.com
 
 ## EDUCATION
-•	B.S Degree in Math and Computer Science of University of Natural Science Ho Chi Minh city, 2003 -2007 
-•	Associate in Bachelor of Economics in Business Administration of University of Economics Ho Chi Minh City, 2008 -2010 
+-	B.S Degree in Math and Computer Science of University of Natural Science Ho Chi Minh city, 2003 -2007 
+
+-	Associate in Bachelor of Economics in Business Administration of University of Economics Ho Chi Minh City, 2008 -2010 
 
 ## LANGUAGE SKILL
 · Vietnamese | Mother Tongue 
