@@ -1,5 +1,3 @@
-## Truong Thi Ngoc Bich
-### Senior Developer
 ![TruongThiNgocBich](https://avatars3.githubusercontent.com/u/7008161?s=160&u=5da8fb9434ade13186133b9f2778898d7e61981f&v=4)
 
 
