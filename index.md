@@ -14,17 +14,17 @@
 -	Associate in Bachelor of Economics in Business Administration of University of Economics Ho Chi Minh City, 2008 -2010 
 
 ## LANGUAGE SKILL
-· Vietnamese | Mother Tongue 
-· English | Intermediate 
-· Japanese | ~ N2 
+- Vietnamese | Mother Tongue 
+- English | Intermediate 
+- Japanese | ~ N2 
 
 ### TECHNICAL SKILL
-PROGRAMMING LANGUAGE 	PHP (11 years), Java (1 year), HTML (2 years), JavaScript(2 years) 
-PROGRAMMING TOOL 	Eclipse, Netbeans, Git 
-DATABASE 	MySQL, PostgreSQL,… 
-FRAMEWORK 	CodeIgniter (4 years), Lavarel (3 years), Symfony PHP (2 years), Yii(1 year), CakePHP (1 year) 
-CMS: Wordpress (1 year), Joomla (0.5 year) 
-OS 	Window, Linux 
+- PROGRAMMING LANGUAGE 	PHP (11 years), Java (1 year), HTML (2 years), JavaScript(2 years) 
+- PROGRAMMING TOOL 	Eclipse, Netbeans, Git 
+- DATABASE 	MySQL, PostgreSQL,… 
+- FRAMEWORK 	CodeIgniter (4 years), Lavarel (3 years), Symfony PHP (2 years), Yii(1 year), CakePHP (1 year) 
+- CMS: Wordpress (1 year), Joomla (0.5 year) 
+- OS 	Window, Linux 
 
 
  
