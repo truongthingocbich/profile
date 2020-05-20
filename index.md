@@ -1,4 +1,5 @@
-## Abbout me
+## Senior Develop
+![TruongThiNgocBich](https://avatars3.githubusercontent.com/u/7008161?s=160&u=5da8fb9434ade13186133b9f2778898d7e61981f&v=4)
 
 You can use the [editor on GitHub](https://github.com/truongthingocbich/bichttn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
